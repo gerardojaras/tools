@@ -1,2 +1,4 @@
+# Ignore all JSON files (do not commit generated batches or other JSON)
 *.json
-.json
+
+# If you need to commit a specific JSON, remove it from this rule and add an allow-list entry here.
