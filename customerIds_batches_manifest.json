@@ -1,0 +1,11 @@
+{
+  "batches": [
+    "customerIds_batch_01_2025-12-31.json",
+    "customerIds_batch_02_2025-12-31.json",
+    "customerIds_batch_03_2025-12-31.json",
+    "customerIds_batch_04_2025-12-31.json",
+    "customerIds_batch_05_2025-12-31.json"
+  ],
+  "total_records": 524,
+  "batch_size": 120
+}
